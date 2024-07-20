@@ -144,5 +144,7 @@ Selain itu, data dari model XGBoost dapat diintegrasikan ke dalam sistem game un
 
 ### Referensi
 [1] Confusion Matrix untuk Evaluasi Model pada Supervised Learning, https://ksnugroho.medium.com/confusion-matrix-untuk-evaluasi-model-pada-unsupervised-machine-learning-bc4b1ae9ae3f
+
 [2] ENCODING in Machine Learning, https://medium.com/@nicholasgabrielkr/encoding-in-machine-learning-493b57fbb1c8
+
 [3] # Algoritme XGBoost dengan Contohnya, https://dindaadi.medium.com/algoritme-xgboost-dengan-contohnya-28e958a3e2f6
